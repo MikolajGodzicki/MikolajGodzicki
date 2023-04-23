@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Santa137!
+I'm Mikołaj!
 
 I'm a C#, Python, and sometimes PHP developer working at personal projects.
 

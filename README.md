@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I'm Mikołaj!
+Nazywam się Mikołaj.
 
-I'm a C#, Python, and sometimes PHP developer working at personal projects.
+Jestem uczniem 3-ciej klasy technikum na profilu informatyk. Od kiedy pamiętam, interesowało mnie programowanie i tworzenie nowych rozwiązań, by pomagać sobie i innym. Aktualnie skupiam się na nauce Pythona i C#, którymi to zajmuję się już nieco ponad 3 lata.
 
-I used to work as full-stack developer on Metin2 Server.
+Pracowałem jako Full-Stack developer serwerów gry metin2. Zajmowałem się programowaniem systemów i dodawaniem nowych funkcjonalności do gry (Python). Na potrzebny szkolne odtworzyłem grę River Raid z użyciem biblioteki MonoGame (C#).
+
+Ukończyłem szkolny kurs programowania w Pythonie, który obejmował podstawy języka.
+
+Podczas pracy nad projektami używałem także języka SQL do zapytań bazo danowych oraz GITa do systemu kontroli wersji. Uwielbiam pracować w zespole i dobrze dogaduje się z kompanami. Jest otwarty na zmiany oraz solidnie przyswajam wiedze.

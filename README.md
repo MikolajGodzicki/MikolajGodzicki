@@ -8,4 +8,4 @@ Pracowałem jako Full-Stack developer serwerów gry metin2. Zajmowałem się pro
 
 Ukończyłem szkolny kurs programowania w Pythonie, który obejmował podstawy języka.
 
-Podczas pracy nad projektami używałem także języka SQL do zapytań bazo danowych oraz GITa do systemu kontroli wersji. Uwielbiam pracować w zespole i dobrze dogaduje się z kompanami. Jest otwarty na zmiany oraz solidnie przyswajam wiedze.
+Podczas pracy nad projektami używałem także języka SQL do zapytań bazo danowych oraz GITa do systemu kontroli wersji. Uwielbiam pracować w zespole i dobrze dogaduje się z kompanami. Jestem otwarty na zmiany oraz solidnie przyswajam wiedze.

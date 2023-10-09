@@ -2,7 +2,7 @@
 
 Nazywam się Mikołaj.
 
-Jestem uczniem 3-ciej klasy technikum na profilu informatyk. Od kiedy pamiętam, interesowało mnie programowanie i tworzenie nowych rozwiązań, by pomagać sobie i innym. Aktualnie skupiam się na nauce Pythona i C#, którymi to zajmuję się już nieco ponad 3 lata.
+Jestem uczniem 4-tej klasy technikum na profilu informatyk. Od kiedy pamiętam, interesowało mnie programowanie i tworzenie nowych rozwiązań, by pomagać sobie i innym. Aktualnie skupiam się na nauce Pythona i C#, którymi to zajmuję się już nieco ponad 3 lata.
 
 Pracowałem jako Full-Stack developer serwerów gry metin2. Zajmowałem się programowaniem systemów i dodawaniem nowych funkcjonalności do gry (Python). Na potrzebny szkolne odtworzyłem grę River Raid z użyciem biblioteki MonoGame (C#).
 

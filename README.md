@@ -15,11 +15,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,mysql,arduino" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,dotnet,vscode,visualstudio" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,py,mysql,arduino,postman,linux" />
   </a>
   <br/>
 </div>
